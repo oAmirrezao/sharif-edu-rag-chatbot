@@ -271,8 +271,6 @@ python run.py
 
 Below are example screenshots of the system execution.
 
-![example](example1.jpg)
-
-![example](example2.jpg)
-
 ![example](example3.jpg)
+![example](example2.jpg)
+![example](example1.jpg)
